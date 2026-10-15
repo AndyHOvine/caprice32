@@ -17,3 +17,4 @@ debian/caprice32.postinst.debhelper
 debian/caprice32.postrm.debhelper
 debian/caprice32.substvars
 debian/files
+*.exe
